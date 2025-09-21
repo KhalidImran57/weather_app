@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/158b0956212743d200be0f60666c5d74d076c43e/1.PNG" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/de5327248ee12fe0a5f1809f1e87ef781f22aee4/2.PNG" alt="App Screenshot 2" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/556a9226acde5f558a572511d3ac47c99cfde161/4.PNG" alt="App Screenshot 4" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/weather_app/blob/8ee6e61e5cdf5ef8dab26a1139b9480ca3021811/w1.PNG" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/weather_app/blob/8ee6e61e5cdf5ef8dab26a1139b9480ca3021811/w2.PNG" alt="App Screenshot 2" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/weather_app/blob/8ee6e61e5cdf5ef8dab26a1139b9480ca3021811/w3.PNG" alt="App Screenshot 4" width="200" style="margin: 10px;"/>
 </p>
